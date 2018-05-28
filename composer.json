@@ -5,7 +5,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "vaibhavjain-in/blt": "^9.0.3"
+        "vaibhavjain-in/blt": "9.0.6"
     },
     "require-dev": {}
 }
